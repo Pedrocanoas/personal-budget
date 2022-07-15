@@ -1,0 +1,22 @@
+{
+  "name": "personal-budget",
+  "version": "1.0.0",
+  "description": "a way for you to organize your finances",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrocanoas/personal-budget.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "Pedro Canôas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pedrocanoas/personal-budget/issues"
+  },
+  "homepage": "https://github.com/Pedrocanoas/personal-budget#readme"
+}

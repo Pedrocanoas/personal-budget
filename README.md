@@ -48,7 +48,7 @@ $ npm run dev
 
 - [Autor](#Autor)
 <div align="center">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51349076?v=4" width="6.25rem;" alt=""/>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51349076?v=4" width="150rem;" alt=""/>
 <a><h1>Pedro Canôas</h1> <a href="https://github.com/Pedrocanoas" title="Github">🚀</a></a>
 
 Feito com ❤️ por Pedro Canôas 👋🏽 Entre em contato! || Made with ❤️ by Pedro Canôas 👋🏽 contact me!

@@ -3,7 +3,7 @@
 
  <div align="center">
  
-![Badge](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge) ![Badge](https://img.shields.io/badge/node-v16.13.2-blue?style=for-the-badge) ![Badge](https://img.shields.io/badge/develop%20progress-05%25-green?style=for-the-badge)
+![Badge](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge) ![Badge](https://img.shields.io/badge/node-v16.15-blue?style=for-the-badge) ![Badge](https://img.shields.io/badge/develop%20progress-05%25-green?style=for-the-badge)
 </div>
 
 <p align="center">  <a href="#About">About</a> • <a href="#Installation">Installation</a> • <a href="#Technologies">Technologies</a> • <a href="#License-a">License</a> • <a href="#Autor">Autor</a>  </p>
@@ -32,9 +32,9 @@ $ cd personal-budget
 $ npm install
 
 # Run the application
-$ npm run start
+$ npm run dev
 
-# The server will start on port:3000 - acess: <http://localhost:3000>
+# The server will start on port:1234 - acess: <http://localhost:1234>
 ```
 
 - [Technologies](#Technologies)
@@ -42,6 +42,7 @@ $ npm run start
   The following tools were used in the construction of the project:
 
   -- [Node.js](https://nodejs.org/en/)
+  -- [Sass](https://sass-lang.com)
 
 <hr>
 
